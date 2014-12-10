@@ -1,7 +1,5 @@
 个人Mac App合集
 
-----
-
 #待购入的App列表：
   - Sketch
   - OmniGraffle
@@ -11,8 +9,6 @@
   - TweetBot
   - BetterZip
   - Gemini
-
-----
 
 #已购入的App列表：
   - Ulysses III
