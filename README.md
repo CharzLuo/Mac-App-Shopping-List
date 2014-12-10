@@ -9,6 +9,7 @@
   - TweetBot
   - BetterZip
   - Gemini
+  - Slicy
 
 #已购入的App列表：
   - Ulysses III
