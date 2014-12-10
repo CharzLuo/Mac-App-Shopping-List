@@ -29,3 +29,4 @@
   - Yoink
   - 一览
   - DaisyDisk
+  - Moom
