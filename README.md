@@ -4,7 +4,6 @@
   - Sketch
   - OmniGraffle
   - DASH
-  - Alfred
   - Dropbox
   - TweetBot
   - BetterZip
@@ -27,3 +26,4 @@
   - 一览
   - DaisyDisk
   - Moom
+  - Alfred
