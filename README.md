@@ -1,7 +1,6 @@
 个人Mac App合集
 
 #待购入的App列表：
-  - Sketch
   - OmniGraffle
   - DASH
   - Dropbox
@@ -27,3 +26,5 @@
   - DaisyDisk
   - Moom
   - Alfred
+  - Sketch
+  - Framer
