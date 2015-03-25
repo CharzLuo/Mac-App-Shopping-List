@@ -8,6 +8,7 @@
   - BetterZip
   - Gemini
   - Slicy
+  - Fantastical for Mac 2
 
 #已购入的App列表：
   - Ulysses III
