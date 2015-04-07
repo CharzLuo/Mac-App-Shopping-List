@@ -29,3 +29,4 @@
   - Alfred
   - Sketch
   - Framer
+  - Boom 2
