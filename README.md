@@ -1,6 +1,6 @@
 个人Mac App合集
 
-#待购入的App列表：
+# 待购入的App列表：
   - OmniGraffle
   - DASH
   - Dropbox
@@ -10,7 +10,7 @@
   - Slicy
   - Fantastical for Mac 2
 
-#已购入的App列表：
+# 已购入的App列表：
   - Ulysses III
   - Marked2
   - 1Psssword
@@ -30,3 +30,4 @@
   - Sketch
   - Framer
   - Boom 2
+- Inboard
