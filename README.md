@@ -5,7 +5,6 @@
   - DASH
   - Dropbox Pro
   - BetterZip
-  - Gemini
   - Slicy
   - Fantastical for Mac 2
 
@@ -30,5 +29,6 @@
   - Framer
   - Boom 2
   - Inboard
-- Tweetbot for Mac 2.0
-- Mindnode 2.0
+  - Tweetbot for Mac 2.0
+  - Mindnode 2.0
+  - Gemini
