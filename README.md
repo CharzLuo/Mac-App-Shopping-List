@@ -3,8 +3,7 @@
 # 待购入的App列表：
   - OmniGraffle
   - DASH
-  - Dropbox
-  - TweetBot
+  - Dropbox Pro
   - BetterZip
   - Gemini
   - Slicy
@@ -31,3 +30,5 @@
   - Framer
   - Boom 2
   - Inboard
+- Tweetbot for Mac 2.0
+- Mindnode 2.0
